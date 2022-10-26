@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # agltpnote22
 
 
@@ -19,3 +20,6 @@ git remote add origin https://gitlab.com/cnebut-teaching/agltpnote22.git
 git branch -M main
 git push -uf origin main
 ```
+=======
+# TPNoteAM
+>>>>>>> 9430ab3b46d67a7d5cbbb5be03f9717fd2aaaafb
